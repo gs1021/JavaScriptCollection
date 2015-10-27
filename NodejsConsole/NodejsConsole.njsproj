@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fe0bd4d7-3358-47fc-a16c-cd84fb672979</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>app.js</StartupFile>
+    <StartupFile>Lesson\lesson6.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -33,6 +33,8 @@
     <Compile Include="app.js" />
     <Compile Include="Lesson\lesson2.js" />
     <Compile Include="Lesson\lesson3-4.js" />
+    <Compile Include="Lesson\lesson6.1.js" />
+    <Compile Include="Lesson\lesson6.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
