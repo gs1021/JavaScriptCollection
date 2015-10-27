@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Book", "Book", "{9FB20CC2-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptBook", "JavaScriptBook\JavaScriptBook.csproj", "{7EED9B2B-483C-4284-A7EA-41C905FFA631}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NodeJs", "NodeJs", "{E1651DEB-FA06-4649-AB19-F63B38EE3415}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsole", "NodejsConsole\NodejsConsole.njsproj", "{FE0BD4D7-3358-47FC-A16C-CD84FB672979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{7EED9B2B-483C-4284-A7EA-41C905FFA631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EED9B2B-483C-4284-A7EA-41C905FFA631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EED9B2B-483C-4284-A7EA-41C905FFA631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0BD4D7-3358-47FC-A16C-CD84FB672979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0BD4D7-3358-47FC-A16C-CD84FB672979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0BD4D7-3358-47FC-A16C-CD84FB672979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0BD4D7-3358-47FC-A16C-CD84FB672979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +40,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{EAE7F5B1-BD64-43C3-8EBD-53FF48150C30} = {A267456B-9B66-421F-8E98-B1D12A5E0B57}
 		{7EED9B2B-483C-4284-A7EA-41C905FFA631} = {9FB20CC2-C792-476D-A924-7327317E3ABE}
+		{FE0BD4D7-3358-47FC-A16C-CD84FB672979} = {E1651DEB-FA06-4649-AB19-F63B38EE3415}
 	EndGlobalSection
 EndGlobal
