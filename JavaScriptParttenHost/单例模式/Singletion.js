@@ -17,5 +17,5 @@
 var singletion = new mySingletion();
 singletion.PublicMethod();
 singletion.PublicValue;
-
+  
 
